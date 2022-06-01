@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 New Line!!! 234r234423
 123234
 
 fsfsgsgsgsgsd
+=======
+Hello World!
+>>>>>>> parent of 0946300 (Second commit)
